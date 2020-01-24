@@ -1,0 +1,15 @@
+Steep: deporte: 2016  : 0:0:0:0: 0: 0:0:0:12:  10
+Wattam:aventura: 2019  : 0:0:0:0: 0:11:36:8:12:3
+For the King: estrategia: 2018  : 0:0:0:7: 12: 0:33:13:2: 0
+Steep: deporte: 2016  : 0:0:0:0: 0: 0:0:0:12:  10
+The Outer Worlds:rol: 2019  : 0:0:0:0: 0: 5:44:13:12: 0
+Bloodborne:  rol: 2015  : 0:0:0:0: 0: 0:34:534:612: 43
+The Escapists:aventura: 2014: 0:0:0:0: 0:0:5:8:42:13
+Into the Breach: estrategia: 2018  : 0:0:0:0: 0: 3:15:19:8: 0
+Virtua Tennis Challenge:deporte: 2012:0:0:0:0:2:11:44:40:1: 0
+Graveball: deporte: 2018:0:0:0: 6: 12: 1:33:4:0: 0
+Descenders:deporte: 2018:0:0:0: 4: 5: 15:3:1:0: 0
+Planet Zoo: estrategia: 2019  : 0:0:0:0: 0: 3:15:19:8: 0
+For the King: estrategia: 2018  : 0:0:0:7: 12: 0:33:13:2: 0
+Youtubers Life:Estrategia: 2017  : 0:0:0:2: 12: 15:12:13:0: 0
+The Witcher:rol: 2007  : 0:0:0:0: 0: 55:34:134:412: 3
